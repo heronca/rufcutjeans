@@ -1,0 +1,5 @@
+/s/shop /#vintage 301
+/product/:slug/:id /product/?id=:id 301
+/contact-us /#visit 301
+/workshop-reviews /#workshop 301
+/alterations-repairs /#repairs 301

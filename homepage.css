@@ -223,3 +223,5 @@ footer{padding:35px 0 24px;border-top:1px solid var(--rule)}.footer-wordmark{fon
 @media(max-width:860px){.machine-corner{width:230px;padding:12px}.machine-plate{height:138px}}
 @media(max-width:767px){.machine-corner{width:210px}.machine-plate{height:125px}}
 @media(max-width:359px){.machine-corner{width:170px}.machine-plate{height:100px}}
+/* Sewing machine plate: dark see-through glass over the photo. */
+.machine-corner{background:rgba(8,13,26,.5);-webkit-backdrop-filter:blur(6px) saturate(.9);backdrop-filter:blur(6px) saturate(.9);border-left-color:rgba(255,255,255,.14);border-bottom-color:rgba(255,255,255,.14)}
